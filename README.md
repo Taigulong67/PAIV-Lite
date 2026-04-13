@@ -34,3 +34,12 @@ It is not a product, but a working demo that validates the core ideas of Identit
 
 ```text
 PAIV Lite = Identity Validation Layer
+---
+
+## 🔗 System Context
+
+PAIV Lite is part of the PAIV ecosystem:
+
+PaivMe → Capture (in progress)  
+PAIV → Structure  
+PAIV Lite → Validation  
